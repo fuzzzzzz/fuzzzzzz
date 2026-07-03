@@ -23,9 +23,9 @@
 <!-- GitHub Stats -->
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=fuzzzzzz&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=fuzzzzzz&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=86400" alt="GitHub Stats" />
 &nbsp;
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fuzzzzzz&layout=compact&hide_border=true&theme=tokyonight&card_width=320" alt="Top Languages" />
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=fuzzzzzz&layout=compact&hide_border=true&theme=tokyonight&card_width=320&cache_seconds=86400" alt="Top Languages" />
 &nbsp;
 <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=fuzzzzzz&hide_border=true&theme=tokyonight" alt="GitHub Streak" />
 
