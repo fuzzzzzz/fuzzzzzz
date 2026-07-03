@@ -8,10 +8,6 @@ I build practical life tools that make daily routines a bit easier and more fun.
 - 🇯🇵 **Japanese Learning Companion** — Interactive group-learning plugin with quizzes, vocabulary, and scoring
 - ✍️ **Personal Blog** — My space for sharing thoughts and projects
 
-## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=fuzzzzzz/astrbot_plugin_tianqi,fuzzzzzz/my-blog,fuzzzzzz/astrbot_plugin_gogaku&type=Date)](https://star-history.com/#fuzzzzzz/astrbot_plugin_tianqi,fuzzzzzz/my-blog,fuzzzzzz/astrbot_plugin_gogaku&Date)
-
 ## 🛠️ Tech Focus
 
 `Python` · `AstrBot` · `Chatbot Plugins` · `HTML/CSS` · `pnpm` · `Docker`
@@ -27,3 +23,7 @@ I build practical life tools that make daily routines a bit easier and more fun.
 ---
 
 💡 *Every tool starts from a simple need — let's make life tools that actually help.*
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=fuzzzzzz/astrbot_plugin_tianqi,fuzzzzzz/my-blog,fuzzzzzz/astrbot_plugin_gogaku&type=Date)](https://star-history.com/#fuzzzzzz/astrbot_plugin_tianqi,fuzzzzzz/my-blog,fuzzzzzz/astrbot_plugin_gogaku&Date)
